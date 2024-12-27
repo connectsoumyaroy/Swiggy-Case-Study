@@ -36,7 +36,7 @@ Project Phases:
 
 ## 1. Web Scrapping ⛏️
 Given the dynamic nature of Swiggy's content, a traditional iteration over pages was not possible. Instead, automation was utilized to scroll continuously through the website, retrieving data as it dynamically loaded.By leveraging webdriver and selenium, the automation script was designed to mimic user behavior, scrolling down the Swiggy website to capture the dynamically loaded content. This approach allowed the extraction of data beyond what was initially visible on the screen. As the script scrolled down, it effectively retrieved the data, ensuring a comprehensive dataset for further analysis. Following is he code for website automation:
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/e3f73b58-9e4b-4400-9de5-a5a70ac8b59c)
+
 
 ## 2. Data Cleaning 🧹
 
